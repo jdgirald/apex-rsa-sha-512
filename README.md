@@ -1,6 +1,6 @@
 # RSA-SHA512 in Apex
 
-<img src="https://bigassforce.com/wp-content/uploads/rsa-sha-512-small-num.png" />
+<img src="https://raw.githubusercontent.com/bigassforce/apex-rsa-sha-512/master/diagram.png" />
 
 <ol>
   <li>Our <strong>private key file</strong> holds secret prime numbers</li>
